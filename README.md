@@ -46,4 +46,4 @@ The dataset contains ~100 rows of mock data with the following columns:
 
 ## 🔗 Project File
 
-- [Download Excel file here](https://github.com/user-attachments/files/20000460/myntra_apparel_sample.xlsx))
+- [Download Excel file here](https://github.com/user-attachments/files/20000460/myntra_apparel_sample.xlsx)
